@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jjangman1
 - 👀 I’m interested in ...asset management
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...team project
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ...mclauren@naver.com
 
 <!---
